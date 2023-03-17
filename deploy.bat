@@ -8,4 +8,5 @@ git init
 git add -A
 git commit -m 'deploy'
 git push -f git@github.com:rdl1130/rdl1130.github.io.git master
+echo push success!!
 pause >nul
