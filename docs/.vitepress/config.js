@@ -10,7 +10,7 @@ const sidebar = {
           items: [
               {text: '1-A', link: '/demo1/a'},
               {text: '1-B', link: '/demo1/b'},
-              {text: '1-C', link: '/demo1/c'}
+              {text: '1-C', link: '/demo1/d'}
           ]
       },
       {

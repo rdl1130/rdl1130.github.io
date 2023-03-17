@@ -2,7 +2,7 @@
 
 call npm run docs:build
 
-cd F:\boke\github\rdl1130.github.io\docs\.vitepress\dist
+cd F:\github\rdl1130.github.io\docs\.vitepress\dist
 
 git init
 git add -A
