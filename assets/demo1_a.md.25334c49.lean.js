@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,N as o}from"./chunks/framework.a618ffea.js";const u=JSON.parse('{"title":"一,第一节","description":"","frontmatter":{},"headers":[],"relativePath":"demo1/a.md","lastUpdated":1679018193000}'),r={name:"demo1/a.md"},s=o("",6),n=[s];function _(c,d,i,l,h,p){return t(),e("div",null,n)}const f=a(r,[["render",_]]);export{u as __pageData,f as default};
