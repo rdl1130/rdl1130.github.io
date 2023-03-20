@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.a618ffea.js";const d=JSON.parse('{"title":"bat 脚本","description":"","frontmatter":{},"headers":[],"relativePath":"demo1/BAT.md","lastUpdated":null}'),p={name:"demo1/BAT.md"},e=l("",9),o=[e];function t(r,c,i,A,D,C){return n(),a("div",null,o)}const y=s(p,[["render",t]]);export{d as __pageData,y as default};
